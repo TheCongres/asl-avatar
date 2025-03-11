@@ -1,3 +1,7 @@
+## Import files from dicasign database and convert it to Arabic
+## rename files according to translation
+##
+##
 import os
 import sys
 
